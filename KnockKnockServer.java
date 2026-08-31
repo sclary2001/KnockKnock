@@ -28,5 +28,6 @@ public class KnockKnockServer {
         //   - If the protocol returns "Bye.", break the loop.
 
         // TODO 7: Close your sockets and streams!
+        // Hi Sean
     }
 }
